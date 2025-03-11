@@ -1,0 +1,227 @@
+{
+  "name": "Brendon did it",
+  "subtitle": "So I blocked Brendon Urie",
+  "description": "Brendon use these apps daily. be like brendon.",
+  "iconURL": "https://i.imgur.com/7sEHNQjb.jpg",
+  "headerURL": "https://drive.google.com/drive/u/0/folders/1-0wMV54aFcGUUOC4xAk7KC9t15jZevl8",
+  "website": "https://rule34video.com",
+  "patreonURL": "https://www.patreon.com/SpillingtheMilk"
+  "tintColor": "#70E6D2",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+],
+"apps": [
+    {
+  "name": "DallaView"
+        "bundleIdentifier": "idkwhy.bloomy.myapp",
+        "marketplaceID": "19812524",
+        "developerName": "Example Developer",
+        "subtitle": "sued.",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://drive.google.com/file/d/1KJRp2id3PrNzimovOUlcjYv3a-253UDW/view?usp=sharing",
+        "tintColor": "#F54F32",
+        "category": "photo-video",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png" 
+        ],
+        "versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://drive.google.com/file/d/1rsYql5pSLdpglVGscMHtsB5QZHmLaFhN/view?usp=sharing",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+],
+        "appPermissions": {
+  "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+  }
+},
+  "name": "ight motivation"
+        "bundleIdentifier": "downside.floomy.myapp",
+        "marketplaceID": "31456723",
+        "developerName": "Example Developer",
+        "subtitle": "puppet type animation.",
+        "localizedDescription": "This was an awesome app only available on AltStore.",
+        "iconURL": "https://drive.google.com/file/d/1lATVKZDqq477mb_keqpxpk1ZmH19w40v/view?usp=sharing",
+        "tintColor": "#F54F32",
+        "category": "photo-video",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png" 
+        ],
+        "versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://drive.google.com/file/d/1HZ58U6iUBAQjx5tko-HW-0cAqOq8W-5N/view?usp=sharing",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+],
+        "appPermissions": {
+  "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+    "NSPhotoUsageDescription": "App uses the Gallery to share photos."
+
+  }
+},
+  "name": "Vro Crew"
+        "bundleIdentifier": "brendonsfortnite.battlepass.myapp",
+        "marketplaceID": "19870412",
+        "developerName": "Example Developer",
+        "subtitle": "discord mod live stream.",
+        "localizedDescription": "This do an awesome app only available on AltStore.",
+        "iconURL": "https://drive.google.com/file/d/19DE_-N5WXru-w3OznB5Mi-pJll2DmJ67/view?usp=sharing",
+        "tintColor": "#F54F32",
+        "category": "entertainment",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png" 
+        ],
+        "versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://drive.google.com/file/d/1qi-VGXyni6WL-SRW2TORO4yqe9U0SX4_/view?usp=sharing",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+],
+        "appPermissions": {
+  "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+
+  }
+},
+  "name": "CD Drive Player"
+        "bundleIdentifier": "1990s.2010s.myapp",
+        "marketplaceID": "59213937",
+        "developerName": "Example Developer",
+        "subtitle": "music player",
+        "localizedDescription": "This waddawadda an awesome app only available on AltStore.",
+        "iconURL": "https://drive.google.com/file/d/1G2yvKNEOp_7LL4ZDH5tC-W7baX2450lD/view?usp=sharing",
+        "tintColor": "#F54F32",
+        "category": "entertainment",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png" 
+        ],
+        "versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://drive.google.com/file/d/1megYfFw0snqLDjkwtV6xZouM3cIIhr0O/view?usp=sharing",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+],
+        "appPermissions": {
+  "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+
+  }
+},
+  "name": "Say it Louder"
+        "bundleIdentifier": "vivalas.fakeman.myapp",
+        "marketplaceID": "20220823",
+        "developerName": "Example Developer",
+        "subtitle": "music player",
+        "localizedDescription": "This waddawadda an awesome app only available on AltStore.",
+        "iconURL": "https://drive.google.com/file/d/1lATVKZDqq477mb_keqpxpk1ZmH19w40v/view?usp=sharing",
+        "tintColor": "#F54F32",
+        "category": "utilities",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png" 
+        ],
+        "versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://drive.google.com/file/d/1TvND63CJdmN4snjtxn2JTsdLBqOTikXJ/view?usp=sharing",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+],
+        "appPermissions": {
+  "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+
+  }
+},
+],
+
+"news": [
+  {
+    "title": "New Feature Announcement",
+    "identifier": "new_feature",
+    "caption": "Introducing a new feature in AltStore!",
+    "date": "2023-03-15",
+    "tintColor": "#F54F32",
+    "imageURL": "https://example.com/new_feature_image.png",
+    "notify": true,
+    "url": "https://example.com/new_feature_details",
+    "appID": "com.example.myapp"
+  },
+]
+      "patreon": {
+  "pledge": 3,
+  "currency": "USD",
+  "benefit": "90zyx87",
+  "tiers": [ inspectible
+    "12abc34",
+    "56cde78",
+  ],  
+},
+    },
+]
+}
